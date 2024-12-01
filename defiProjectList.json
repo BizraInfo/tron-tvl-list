@@ -1,3 +1,31 @@
-[
-    
-]
+{
+    "address": "TJfjMQnXt3wJ8qFJu4uX23PmMt5qfanHjw",
+    "symbol": "TRCUSDT20",
+    "name": "OptimizedTRC20USDT",
+    "decimals": 6,
+    "logoURI": "https://example.com/path/to/logo.png", 
+    "homepage": "https://yourprojecthomepage.com",
+    "MarketCapLink": "https://coinmarketcap.com/currencies/trcusdt20/",
+    "existingMarkets": [
+        {
+            "source": "Binance",
+            "pairs": [
+                "TRCUSDT20/USDT",
+                "TRCUSDT20/BUSD",
+                "TRCUSDT20/BNB"
+            ]
+        },
+        {
+            "source": "Poloniex",
+            "pairs": [
+                "TRCUSDT20/USDT"
+            ]
+        },
+        {
+            "source": "KuCoin",
+            "pairs": [
+                "TRCUSDT20/USDT"
+            ]
+        }
+    ]
+}
